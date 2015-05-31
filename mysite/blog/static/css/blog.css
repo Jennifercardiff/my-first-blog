@@ -1,0 +1,19 @@
+h2 a {
+    color: #67BCDB;
+    font-family: 'Lobster';
+}
+
+h1 {
+  color:#FFFFFF;
+  background-color: #A2AB58;
+  margin-top: 0;
+  font-size: 36pt;
+  font-family: 'Lobster';
+  padding-left: 3%;
+  padding: 30px 20px 30px 40px;
+
+}
+
+div.post {
+  padding-left: 5%;
+}
